@@ -4,6 +4,6 @@ I'm a full-stack web developer and Nanotechnology Engineering student experience
 
 Thanks for checking out my Github!
 
-To contact me, visit:
+To contact me, visit:<br/>
 [LinkedIn](https://www.linkedin.com/in/mteplitski/)<br/>
 [Email](mailto:michelle.teplitski@gmail.com)
